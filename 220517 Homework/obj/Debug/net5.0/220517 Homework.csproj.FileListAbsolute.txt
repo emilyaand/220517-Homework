@@ -1,0 +1,16 @@
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\bin\Debug\net5.0\220517 Homework.exe
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\bin\Debug\net5.0\220517 Homework.deps.json
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\bin\Debug\net5.0\220517 Homework.runtimeconfig.json
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\bin\Debug\net5.0\220517 Homework.runtimeconfig.dev.json
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\bin\Debug\net5.0\220517 Homework.dll
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\bin\Debug\net5.0\220517 Homework.pdb
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.csproj.AssemblyReference.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.AssemblyInfoInputs.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.AssemblyInfo.cs
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.csproj.CoreCompileInputs.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.dll
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\refint\220517 Homework.dll
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.pdb
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\220517 Homework.genruntimeconfig.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\220517 Homework\220517 Homework\obj\Debug\net5.0\ref\220517 Homework.dll
